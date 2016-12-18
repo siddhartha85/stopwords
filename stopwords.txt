@@ -575,3 +575,6 @@ prix
 grand
 indian
 india
+day
+time
+world
