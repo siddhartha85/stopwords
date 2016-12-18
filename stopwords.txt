@@ -569,6 +569,4 @@ yourself
 yourselves
 z
 zero
-movie
-film
-inception
+news
