@@ -578,3 +578,5 @@ india
 day
 time
 world
+ww
+sat_ir
