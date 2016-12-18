@@ -573,3 +573,5 @@ news
 grand_prix
 prix
 grand
+indian
+india
